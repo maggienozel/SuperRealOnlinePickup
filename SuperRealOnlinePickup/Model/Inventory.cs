@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace SuperRealOnlinePickup.Model
 {
-    internal class Inventory
+    public class Inventory
     {
+        public string ItemName { get; set; }
+        public double Price { get; set; }
+        public int ItemId { get; set; }
+
     }
 }

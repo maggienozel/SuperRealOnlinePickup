@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SuperRealOnlinePickup.Model
 {
-    internal class Order
+    public class Order
     {
+        private static int 
     }
 }
