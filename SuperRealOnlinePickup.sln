@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperRealOnlinePickup", "SuperRealOnlinePickup\SuperRealOnlinePickup.csproj", "{FDF878E3-C653-435A-8E8E-9A57D5C90F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF878E3-C653-435A-8E8E-9A57D5C90F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF878E3-C653-435A-8E8E-9A57D5C90F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF878E3-C653-435A-8E8E-9A57D5C90F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF878E3-C653-435A-8E8E-9A57D5C90F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {277AF7AE-1E6E-424D-B0AE-8270D0D8AAA0}
+	EndGlobalSection
+EndGlobal
