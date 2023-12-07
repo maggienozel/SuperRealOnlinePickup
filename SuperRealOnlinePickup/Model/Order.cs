@@ -17,6 +17,11 @@ namespace SuperRealOnlinePickup.Model
 
         public List<Inventory> Item { get; } = new List<Inventory> ();
 
-        
+        public Order(Customer customer, List<Inventory> x)
+        {
+            OrderNumber = nextOrderNumber++;
+            Customer = customer;
+        }
+
     }
 }

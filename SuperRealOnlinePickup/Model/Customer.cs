@@ -8,8 +8,8 @@ namespace SuperRealOnlinePickup.Model
 {
     public class Customer
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public string fName { get; set; }
+        public string lName { get; set; }
         public string email { get; set; }
         public int PhoneNumber { get; set; }
         
